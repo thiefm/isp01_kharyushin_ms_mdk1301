@@ -1,0 +1,16 @@
+C:\Users\volzh\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\volzh\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\volzh\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MainForm.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Views.StudentsForm.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Views.StudentsEditorForm.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Views.GroupsEditorForm.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Views.GroupsForm.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Views.SpecialtiesEditorForm.resources
+C:\Users\volzh\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Views.SpecialtiesForm.resources
